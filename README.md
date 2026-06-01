@@ -1,6 +1,7 @@
 Website Traffic Performance Dashboard
 Project Overview
 This project analyzes real e-commerce website traffic and advertising data to uncover performance patterns across paid and organic channels. The dashboard provides actionable insights into session trends, bounce rates, conversion rates, and advertising spend efficiency over a five-year period.
+
 Tools Used
 
 Power BI Desktop — data modeling, DAX measures, and dashboard visualization
