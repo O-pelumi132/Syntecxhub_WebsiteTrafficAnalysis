@@ -26,6 +26,4 @@ Key Findings
 Total sessions reached 2M with $3.58M revenue generated over the period
 Overall bounce rate stood at 22.76% with a conversion rate of 1.65%
 Google Ads spend of $237.76K and Facebook Ads spend of $200.32K combined returned a ROAS of 8.18
-Sessions peaked around 2018 before declining through 2021
-Internship
-This project was completed as part of the Syntecxhub Data Analysis Internship Program.
+Sessions peaked around 2018 before declining through 2021.
